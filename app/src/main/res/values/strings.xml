@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GroceriesList</string>
+    <string name="add_set">Add Sets</string>
+    <string name="new_item">New item ...</string>
+    <string name="add_rep">Add 1 Rep of 12</string>
+</resources>
